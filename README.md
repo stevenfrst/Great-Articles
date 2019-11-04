@@ -42,7 +42,7 @@ Number.Name of articles - Author - Link
 35. 4 Ways You Can “Level Up” As A Developer - [skill_pathway - Dev](https://dev.to/skill_pathway/4-ways-you-can-level-up-as-a-developer-17ol?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)
 36. Concurrent Programming in Go - [compass-true-north - Medium](https://medium.com/compass-true-north/concurrent-programming-in-go-de33441ace1c)
 37. What Go Programming Language does and does not have - [DevDiary](https://ap4tt.hashnode.dev/what-go-programming-language-does-and-does-not-have-cjwp6rsde0001hos1jls5e2zo)
-38. 
+38. Fantastic Programming Project Ideas and Where to Find Them (a beginner-friendly version) - [nityeshaga - Dev](https://dev.to/nityeshaga/fantastic-programming-project-ideas-and-where-to-find-them-the-beginner-friendly-version-9d5)
 
 
 ### Tips
