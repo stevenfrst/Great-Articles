@@ -43,7 +43,17 @@ Number.Name of articles - Author - Link
 36. Concurrent Programming in Go - [compass-true-north - Medium](https://medium.com/compass-true-north/concurrent-programming-in-go-de33441ace1c)
 37. What Go Programming Language does and does not have - [DevDiary](https://ap4tt.hashnode.dev/what-go-programming-language-does-and-does-not-have-cjwp6rsde0001hos1jls5e2zo)
 38. Fantastic Programming Project Ideas and Where to Find Them (a beginner-friendly version) - [nityeshaga - Dev](https://dev.to/nityeshaga/fantastic-programming-project-ideas-and-where-to-find-them-the-beginner-friendly-version-9d5)
-
+40. Guides to Refactoring [varjmes - Dev](https://dev.to/varjmes/guides-to-refactoring-4ndb)
+41. Beginner Tips: Solving Programming Problems [sofiajonsson - Dev](https://dev.to/sofiajonsson/beginner-tips-solving-code-problems-55hg)
+42. 18 DevTools for productivity 🚀 [christopherkade](https://dev.to/christopherkade/18-devtools-for-productivity-5ia)
+43. Building Simple Software: Defining the "What" Before the "How" [msomji - Dev](https://dev.to/msomji/building-simple-software-defining-the-what-before-the-how-5b9m)
+44. There are different places you can find complexity - [MitchPommers - Twitter](https://twitter.com/MitchPommers/status/1191899188327374848?s=20)
+45. 🤯 Ultra List: One List to Rule Them All. Oct, '19 - [teamxenox - Dev](https://dev.to/teamxenox/ultra-list-one-list-to-rule-them-all-oct-19-1aeh)
+46. 4 Tips for Newbie Software Developer 🥳 - [olivier32621338 - Dev](https://dev.to/olivier32621338/4-tips-for-newbie-software-developer-3gaa)
+47. 27 Programming Youtube channels you should know - [jasterix - Dev](https://dev.to/jasterix/27-programming-youtube-channels-you-should-know-4c39)
+48. What are your favorite analogies to explain programming? - [jmfayard - Dev](https://dev.to/jmfayard/what-are-your-favorite-analogies-to-explain-programming-7np)
+49. The Complete JSON Tutorial – Quickly Learn JSON - [Awesome Person - Codewall](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/?utm_source=CWTwitter&utm_medium=social)
+50. 
 
 ### Tips
 1. My Most Embarrassing Mistakes as a Programmer - [David Neal - Dev](https://dev.to/reverentgeek/my-most-embarrassing-mistakes-as-a-programmer-1c2p)
@@ -70,6 +80,7 @@ Number.Name of articles - Author - Link
 9. Apache is Still the Best General-Purpose Web Server - [apache](https://blog.sourcerer.io/apache-is-still-the-best-general-purpose-web-server-dacedbd86921)
 10. Konsumsi pujian seperti fast food - [Hilman.space](https://hilman.space/pujian/)
 11. Teknologi maju, kamu belum tentu - [Hilman.space](https://hilman.space/teknologi-maju-kamu-belum-tentu/)
+12. How to improve your social skills - [ValaAfshar - Twitter](https://twitter.com/ValaAfshar/status/1191996766486319104?s=20)
 
 ### Business 
 1. A big resource for entrepreneurs and startup owners, in which we have collected and analyzed why +100 big companies have failed. Learn from mistakes, and avoid being part of the 90% of businesses that fail. - [Startup Cemetery - Failory](https://www.failory.com/cemetery?ref=producthunt)
