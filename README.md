@@ -3,7 +3,8 @@ Some Articles To Help To Do better
 
 How To Write Here ? Just Follow The Format Like This
 Number.Name of articles - Author - Link 
-
+### Forum
+1. Golang Hub - [Go.dev](go.dev)
 ### Programming 
 1. Go: ElasticSearch Clients Study Case - [Vincent Blanchon - Medium](https://medium.com/a-journey-with-go/go-elasticsearch-clients-study-case-dbaee1e02c7)
 2. 1x Engineer - [Awesome Person - Poster](https://1x.engineer/)
@@ -53,7 +54,10 @@ Number.Name of articles - Author - Link
 47. 27 Programming Youtube channels you should know - [jasterix - Dev](https://dev.to/jasterix/27-programming-youtube-channels-you-should-know-4c39)
 48. What are your favorite analogies to explain programming? - [jmfayard - Dev](https://dev.to/jmfayard/what-are-your-favorite-analogies-to-explain-programming-7np)
 49. The Complete JSON Tutorial – Quickly Learn JSON - [Awesome Person - Codewall](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/?utm_source=CWTwitter&utm_medium=social)
-50. 
+50. How to write cleaner functions. - [singh1114 - Dev](https://dev.to/singh1114/how-to-write-cleaner-functions-j4m)
+51. Understanding CORS - [g33konaut - Dev](https://dev.to/g33konaut/understanding-cors-aaf)
+52. What We Learned From Programming Now - [kellabyte - Twitter](https://twitter.com/kellabyte/status/1194521033656680448?s=20) 
+53. Json Web Token [FreecodeCamp](https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt-auth-tutorial/)
 
 ### Tips
 1. My Most Embarrassing Mistakes as a Programmer - [David Neal - Dev](https://dev.to/reverentgeek/my-most-embarrassing-mistakes-as-a-programmer-1c2p)
@@ -61,13 +65,16 @@ Number.Name of articles - Author - Link
 3. How to build documentation culture - [James.Scott - Dev](https://dev.to/scottydocs/how-to-build-a-documentation-culture-2mk7)
 4. Print Materi Di Kertas Binder - [caramwelfloat](https://twitter.com/caramwelfloat/status/1163007326917259264?s=20)
 5. ArtiKata part 1 - [ivanlanin - Twitter](https://twitter.com/ivanlanin/status/1150561015546953728?s=20)
+6. 22 Simple Ways to Learn Faster - [uncagedyou](https://dev.to/uncagedyou/22-simple-ways-to-learn-faster-3hg8)
 
 ### DevOps Stuff
 1. Kubernetes Tutorial: Learn the Basics and Get Started - [Christian Melendez - Dev](https://dev.to/scalyr/kubernetes-tutorial-learn-the-basics-and-get-started-5dgh)
 2. Introduction to YAML - [Paula Santamaria - Dev](https://dev.to/paulasantamaria/introduction-to-yaml-125f)
 3. Kubernetes 101- Concepts, Potential, and lots of Container Orchestrations - [Hackernoon - Medium](https://hackernoon.com/kubernetes-101-concepts-and-why-it-matters-g27536x2)
 4. The Must Know Checklist For DevOps & Site Reliability Engineers - [faun - Medium](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
-
+5. Top 10 Courses to Learn DevOps for Experienced Programmers - 
+[javarevisited - Medium](https://medium.com/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151)
+6. 
 ### Personal Development
 1. Cara Mempelajari Ilmu Apapun 10x Lebih Cepat dari Orang Biasa - [Medium - Hebosto](https://medium.com/no-drama/cara-mempelajari-ilmu-apapun-10x-lebih-cepat-dari-orang-biasa-437a7b533383)
 2. The Science Behind Why Small Teams Work More Productively: Jeff Bezos’ 2 Pizza Rule - [Awesome - Buffer](The Science Behind Why Small Teams Work More Productively: Jeff Bezos’ 2 Pizza Rule)
